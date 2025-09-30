@@ -1,0 +1,100 @@
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+
+:root{
+  /* Surface / neutral */
+  --surface-50: #FFFFFF;
+  --surface-100: #F5F7F9;
+  --surface-200: #E1E8EE;
+  --surface-300: #CDD9E0;
+  --surface-400: #AFBCC4;
+  --surface-500: #8895A0;
+  --surface-600: #62707C;
+  --surface-700: #3D4852;
+  --surface-800: #25262E;
+  --surface-900: #1C1B22;
+
+  /* Primary */
+  --primary-50:  #E3F2FD;
+  --primary-100: #BBDEFB;
+  --primary-200: #90CAF9;
+  --primary-300: #64B5F6;
+  --primary-400: #42A5F5;
+  --primary-500: #2196F3; /* primary main */
+  --primary-600: #1E88E5;
+  --primary-700: #1976D2;
+  --primary-800: #1565C0;
+  --primary-900: #0D47A1;
+  --primary-A100: #82B1FF;
+  --primary-A200: #448AFF;
+  --primary-A400: #2979FF;
+  --primary-A700: #2962FF;
+
+  /* warning / red */
+  --error-50:  #FFEBEE;
+  --error-100: #FFCDD2;
+  --error-200: #EF9A9A;
+  --error-300: #E57373;
+  --error-400: #EF5350;
+  --error-500: #F44336;
+  --error-600: #E53935;
+  --error-700: #D32F2F;
+  --error-800: #C62828;
+  --error-900: #B71C1C;
+  --error-A100: #FF8A80;
+  --error-A200: #FF5252;
+  --error-A400: #FF1744;
+  --error-A700: #D50000;
+
+  /* Warning / amber */
+  --warning-50:  #FFF8E1;
+  --warning-100: #FFECB3;
+  --warning-200: #FFE082;
+  --warning-300: #FFD54F;
+  --warning-400: #FFCA28;
+  --warning-500: #FFC107;
+  --warning-600: #FFB300;
+  --warning-700: #FFA000;
+  --warning-800: #FF8F00;
+  --warning-900: #FF6F00;
+  --warning-A100:#FFD180;
+  --warning-A200:#FFAB40;
+  --warning-A400:#FF9100;
+  --warning-A700:#FF6D00;
+
+  /* Success / green */
+  --success-50:  #E8F5E9;
+  --success-100: #C8E6C9;
+  --success-200: #A5D6A7;
+  --success-300: #81C784;
+  --success-400: #66BB6A;
+  --success-500: #4CAF50;
+  --success-600: #43A047;
+  --success-700: #388E3C;
+  --success-800: #2E7D32;
+  --success-900: #1B5E20;
+  --success-A100:#B9F6CA;
+  --success-A200:#69F0AE;
+  --success-A400:#00E676;
+  --success-A700:#00C853;
+
+  /* Info / blue */
+  --info-50:  #E3F2FD;
+  --info-100: #BBDEFB;
+  --info-200: #90CAF9;
+  --info-300: #64B5F6;
+  --info-400: #42A5F5;
+  --info-500: #2196F3;
+  --info-600: #1E88E5;
+  --info-700: #1976D2;
+  --info-800: #1565C0;
+  --info-900: #0D47A1;
+  --info-A100:#82B1FF;
+  --info-A200:#448AFF;
+  --info-A400:#2979FF;
+  --info-A700:#2962FF;
+}
+
+
