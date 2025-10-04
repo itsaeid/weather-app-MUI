@@ -1,6 +1,8 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import "./index.css";
 import React from 'react'
+import Dashboard from "./pages/Dashboard";
+import Login from "./pages/login";
 
 function PrivateRote({children}: {children: React.ReactNode}){
   const name = localStorage.getItem('user_name')
